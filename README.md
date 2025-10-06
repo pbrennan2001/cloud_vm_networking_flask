@@ -1,2 +1,25 @@
-# cloud_vm_networking_flask
-Using Google Cloud Services to create a virtual machine and linking to a python Flask application.
+# Flask on Cloud VM (Assignment 2)
+
+## Student Info
+- Name: Patrick Brennan
+- Cloud Provider: Google Cloud
+
+## Video recording: 
+- Zoom/Loom: 
+
+## Steps
+### 1. VM Creation
+[screenshot]
+
+### 2. Networking (Port 5003 Open)
+[screenshot]
+
+### 3. OS Update + Python Install
+[commands + screenshot]
+
+### 4. Flask App Running
+[screenshot of terminal + browser]
+
+### 5. Public IP Access
+URL: http://XX.XX.XXX.XXX:5003  
+[screenshot]
