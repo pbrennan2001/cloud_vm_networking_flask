@@ -5,7 +5,7 @@
 - Cloud Provider: Google Cloud
 
 ## Video recording: 
-- Zoom/Loom: 
+- Youtube Video: https://youtu.be/FnMbZX9vJjA
 
 ## Steps
 ### 1. VM Creation
@@ -21,5 +21,5 @@
 [screenshot of terminal + browser]
 
 ### 5. Public IP Access
-URL: http://XX.XX.XXX.XXX:5003  
+URL: http://104.197.73.96:5003  
 [screenshot]
