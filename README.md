@@ -9,17 +9,22 @@
 
 ## Steps
 ### 1. VM Creation
-[screenshot]
+![VM Creation](Screenshots/VM.png)
 
 ### 2. Networking (Port 5003 Open)
-[screenshot]
+![Networking](Screenshots/Port_5003.png)
 
 ### 3. OS Update + Python Install
-[commands + screenshot]
+![Update System](Screenshots/Updates.png)
+
+![Install Git](Screenshots/Install_Git.png)
+
+![Install Requirements](Screenshots/Install_Git.png)
 
 ### 4. Flask App Running
-[screenshot of terminal + browser]
+![Run on VM](Screenshots/Running_VM.png)
+
+![Working Flask](Screenshots/Working_Flask.png)
 
 ### 5. Public IP Access
 URL: http://104.197.73.96:5003  
-[screenshot]
